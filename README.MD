@@ -1,3 +1,6 @@
+# Preview do projeto
+![portfolio](https://user-images.githubusercontent.com/61436988/101086751-15aaa600-3590-11eb-8605-2adcf9b50692.png)
+
 # Ferramentas que podem ajudar no desenvolvimento e aprendizado!
 
 https://fontawesome.com/
